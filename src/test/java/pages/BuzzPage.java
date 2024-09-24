@@ -1,4 +1,4 @@
-package Pages;
+package pages;
 import loggerUtility.LoggerUtility;
 import objectData.PostFeedObject;
 import org.openqa.selenium.WebDriver;

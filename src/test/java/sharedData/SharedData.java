@@ -1,4 +1,4 @@
-package SharedData;
+package sharedData;
 import loggerUtility.LoggerUtility;
 import lombok.Getter;
 import org.openqa.selenium.WebDriver;

@@ -1,4 +1,4 @@
-package Pages;
+package pages;
 import loggerUtility.LoggerUtility;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -17,12 +17,4 @@ public class PIMPage extends BasePage {
         elementMethods.clickElement(addEmployeeTab);
         LoggerUtility.info("User clicks on 'Add Employee' tab.");
     }
-
-
-
-
-
-
-
-
 }

@@ -1,7 +1,7 @@
 package Tests;
-import SharedData.SharedData;
+import sharedData.SharedData;
 import objectData.NegativeLogInObject;
-import Pages.LogInPage;
+import pages.LogInPage;
 import org.testng.annotations.Test;
 
 public class NegativeLogInTest extends SharedData {

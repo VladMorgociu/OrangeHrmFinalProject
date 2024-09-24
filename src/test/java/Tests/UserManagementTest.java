@@ -1,10 +1,10 @@
 package Tests;
-import SharedData.SharedData;
+import sharedData.SharedData;
 import objectData.UserManagementObject;
-import Pages.AdminPage;
-import Pages.LogInPage;
-import Pages.MenuItems;
-import Pages.UserManagementPage;
+import pages.AdminPage;
+import pages.LogInPage;
+import pages.MenuItems;
+import pages.UserManagementPage;
 import org.testng.annotations.Test;
 
 public class UserManagementTest extends SharedData {

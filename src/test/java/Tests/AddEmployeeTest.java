@@ -1,7 +1,7 @@
 package Tests;
-import SharedData.SharedData;
+import sharedData.SharedData;
 import objectData.AddEmployeeObject;
-import Pages.*;
+import pages.*;
 import org.testng.annotations.Test;
 
 

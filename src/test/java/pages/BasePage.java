@@ -1,5 +1,5 @@
-package Pages;
-import HelpMethods.ElementMethods;
+package pages;
+import helpMethods.ElementMethods;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 

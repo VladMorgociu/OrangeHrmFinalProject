@@ -1,9 +1,9 @@
 package Tests;
-import SharedData.SharedData;
+import sharedData.SharedData;
 import objectData.PostFeedObject;
-import Pages.BuzzPage;
-import Pages.LogInPage;
-import Pages.MenuItems;
+import pages.BuzzPage;
+import pages.LogInPage;
+import pages.MenuItems;
 import org.testng.annotations.Test;
 
 public class PostFeedTest extends SharedData {
