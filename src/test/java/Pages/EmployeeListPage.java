@@ -1,12 +1,10 @@
 package Pages;
-
 import loggerUtility.LoggerUtility;
 import objectData.AddEmployeeObject;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.testng.Assert;
-
 import java.util.List;
 
 public class EmployeeListPage extends BasePage {
@@ -50,10 +48,6 @@ public class EmployeeListPage extends BasePage {
         LoggerUtility.info("Validation that employee's last name is: " + testData.getEmployeeLastname());
        // Assert.assertTrue(actualEntries.contains("Automaton Tester"));
        // LoggerUtility.info("Validation that employee's job title is 'Automation Tester'");
-
-
-
-
     }
 }
 

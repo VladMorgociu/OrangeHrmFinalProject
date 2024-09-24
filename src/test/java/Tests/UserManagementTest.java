@@ -1,5 +1,4 @@
 package Tests;
-
 import SharedData.SharedData;
 import objectData.UserManagementObject;
 import Pages.AdminPage;

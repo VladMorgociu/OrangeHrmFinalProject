@@ -1,13 +1,10 @@
 package Pages;
-
-
 import loggerUtility.LoggerUtility;
 import objectData.PostFeedObject;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.testng.Assert;
-
 import java.util.List;
 
 public class BuzzPage extends BasePage {

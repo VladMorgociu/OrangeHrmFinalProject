@@ -1,6 +1,4 @@
 package Pages;
-
-
 import loggerUtility.LoggerUtility;
 import objectData.UserManagementObject;
 import org.openqa.selenium.WebDriver;

@@ -1,5 +1,4 @@
 package Pages;
-
 import loggerUtility.LoggerUtility;
 import objectData.NegativeLogInObject;
 import org.openqa.selenium.WebDriver;

@@ -1,5 +1,4 @@
 package Tests;
-
 import SharedData.SharedData;
 import objectData.NegativeLogInObject;
 import Pages.LogInPage;

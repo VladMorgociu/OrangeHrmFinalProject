@@ -1,5 +1,4 @@
 package Tests;
-
 import SharedData.SharedData;
 import objectData.AddEmployeeObject;
 import Pages.*;
@@ -7,7 +6,6 @@ import org.testng.annotations.Test;
 
 
 public class AddEmployeeTest extends SharedData {
-
 
     @Test
     public  void testMethod() {
@@ -32,7 +30,6 @@ public class AddEmployeeTest extends SharedData {
 //        jobDetailsPage.clickJobTab();
 //        jobDetailsPage.chooseJobTitle();
 //        jobDetailsPage.saveChanges();
-
 
         EmployeeListPage employeeListPage = new EmployeeListPage(getDriver());
         employeeListPage.clickEmployeeListTab();

@@ -1,5 +1,4 @@
 package Tests;
-
 import SharedData.SharedData;
 import objectData.PostFeedObject;
 import Pages.BuzzPage;

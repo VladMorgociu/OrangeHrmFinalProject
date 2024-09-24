@@ -1,5 +1,4 @@
 package objectData;
-
 import lombok.Getter;
 import lombok.Setter;
 
