@@ -1,0 +1,5 @@
+{
+  "textToPostValue" : "Hello world! This is my automated test",
+  "expectedPostText" : "Hello world! This is my automated test"
+
+}

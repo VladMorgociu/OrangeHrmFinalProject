@@ -1,0 +1,6 @@
+{
+  "usernameValue": "testWrongUser",
+  "passwordValue": "testWrongPassword123!",
+  "expectedAlertMessage": "Invalid credentials"
+
+}
